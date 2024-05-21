@@ -1,0 +1,45 @@
+{
+    "best": [
+        {"title": "크롭나노 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "핑크그린 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "유니티그린 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "어쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "저쩌구 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"}
+    ],
+    "new":  [
+        {"title": "새로운 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "새로운 핑크 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "새로운 그린 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "새로운 어쩌구 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "새로운 저쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"}
+    ],
+    "discount":  [
+        {"title": "세일 크롭나노 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 핑크그린 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 유니티그린 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 어쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 저쩌구 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"}
+    ],
+    "weeklybest":  [
+        {"title": "세일 크롭나노 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 핑크그린 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 유니티그린 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 어쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 저쩌구 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 크롭나노 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 핑크그린 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 유니티그린 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 어쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 저쩌구 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 크롭나노 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 핑크그린 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 유니티그린 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 어쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 저쩌구 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 크롭나노 화이바 이불 세트", "imgs":"images/pd/001.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 핑크그린 화이바 이불 세트", "imgs":"images/pd/002.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 유니티그린 화이바 이불 세트", "imgs":"images/pd/003.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 어쩌구 화이바 이불 세트", "imgs":"images/pd/004.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"},
+        {"title": "세일 저쩌구 화이바 이불 세트", "imgs":"images/pd/005.jpg", "size":"Q", "price":500000, "oprice": 400000, "sale":"40%"}
+    ]
+}
